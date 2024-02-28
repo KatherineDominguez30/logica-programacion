@@ -11,6 +11,7 @@ public class SecuencuaDos {
 
         int res = cuadrado(num);
         System.out.println("El valor de su perimetro es: " + res + "cm2");
+        scanner.close();
     }
 
     public static int cuadrado(int num){
