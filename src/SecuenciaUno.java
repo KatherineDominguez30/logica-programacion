@@ -1,6 +1,5 @@
+/*Problema: Ralizae la carga de dos numeros enteros por teclado e imprimir su suma y su producto*/
 import java.util.Scanner;
-
-
 public class SecuenciaUno {
 
     public static void main(String[] args){
@@ -26,13 +25,4 @@ public class SecuenciaUno {
         return num1 * num2;
     }
 
-
-
-
-
-
-
-
-
-
-}
+    }
