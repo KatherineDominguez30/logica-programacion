@@ -1,3 +1,9 @@
+/*Problema: confeccionar un programa que pida por teclado tres notas de un alumno, calcule el promedio e
+* imprima alguno de estos mensajes:
+* si el promedio es >=7 mostrar
+* si el promedio es >= 4 y <7 mostrar "Regular"
+* si ek promedio es <4 mostrar "Reprobado"*/
+
 import java.util.Scanner;
 public class CondicionAnidada1 {
     public static void main(String[] args){
