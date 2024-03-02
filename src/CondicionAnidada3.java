@@ -6,8 +6,6 @@ public class CondicionAnidada3 {
         funcionCondicionAnidada2();
     }
 
-
-
     public static void funcionCondicionAnidada2(){
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese un valor: ");
